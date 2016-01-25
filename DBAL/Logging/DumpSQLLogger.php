@@ -1,9 +1,9 @@
 <?php
 namespace BBIT\DoctrineExtensions\DBAL\Logging;
 
-use Doctrine\DBAL\Logging\SQLLogger
+use Doctrine\DBAL\Logging\SQLLogger;
 
-class EchoSQLLogger implements SQLLogger
+class DumpSQLLogger implements SQLLogger
 {
     /**
      * {@inheritdoc}
