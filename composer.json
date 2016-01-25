@@ -26,4 +26,7 @@
     "autoload": {
         "psr-4": {"BBIT\\": "src/BBIT/"}
     },
+    "replace": {
+        "bbit/doctrine-extensions": "self.version",
+    }
 }
