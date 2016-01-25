@@ -77,3 +77,6 @@ app/console bbit:sqs-command-queue:work
 >[**AsyncDispatcherBundle**][asynbundle] is a simple bundle which provides you with an async event dispatcher, which will store events untill kernel.terminate, and then fire them using the regular event dispatcher.  [![Latest Stable Version](https://poser.pugx.org/bbit/async-dispatcher-bundle/v/stable.png)](https://packagist.org/packages/bbit/async-dispatcher-bundle)
 
 [asynbundle]: <http://branchbit.github.io/AsyncDispatcherBundle/>
+
+
+
